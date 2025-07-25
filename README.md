@@ -1,5 +1,8 @@
 # flutter_application_1
 
+“This project is a part of a hackathon run by
+https://www.katomaran.com ”
+
 A new Flutter project.
 
 ## Getting Started
